@@ -8,7 +8,7 @@ and https://www.youtube.com/playlist?list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku
 **Usage : 
 
 
-python generate_tfrecord.py
+python xml_to_csv.py 
 
 python generate_tfrecord.py --csv_input=data/train_labels.csv --output_path=data/train.record --image_dir=images/
 
